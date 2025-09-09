@@ -376,7 +376,10 @@ color:#cfa144;
   width: 300px;
   text-align: center;
 }
-
+.container .one-fifth.column h5 {
+  width: 130px;
+  text-align: center;
+}
 #switch {
   background: #fff;
   position: fixed;
